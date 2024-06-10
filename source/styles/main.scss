@@ -1,0 +1,13 @@
+@use 'variaveis.scss';
+
+body {
+    background-color: variaveis.$primeiraCor;
+
+}
+
+
+.container {
+    width: 100%;
+    max-width: 1023px;
+    height: 40px;
+}

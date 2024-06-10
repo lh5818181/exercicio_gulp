@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCHU,QDQd,WACI,WACA,iBACA","file":"../main.css","sourcesContent":["@use 'variaveis.scss';\r\n\r\nbody {\r\n    background-color: variaveis.$primeiraCor;\r\n\r\n}\r\n\r\n\r\n.container {\r\n    width: 100%;\r\n    max-width: 1023px;\r\n    height: 40px;\r\n}","$primeiraCor: rgb(73, 51, 216);"]}
